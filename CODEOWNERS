@@ -10,7 +10,7 @@
 # Order is important; the last matching pattern takes the most
 # precedence. When someone opens a pull request that only
 # modifies  files, only @js-owner and not the global
-# owner(s) will be requested for a review.
+# owner(s) will be requested for a review.edwin
 /apis/poi/*              @alcollaz
 /apis/trips/*            @SurfEzBum
 /apis/user-java/*        @easarce
